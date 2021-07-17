@@ -1,5 +1,5 @@
 tool
-class_name u2b, "res://asset/u2b.png"
+class_name u2b
 
 var main_char = {
 	"।"   :    "|", 
